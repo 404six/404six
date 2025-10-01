@@ -1,7 +1,7 @@
 ### Hi there, I'm Lucas Morais 👋
 
-- I'm a Full Stack Developer with extensive expertise in Python, PHP, C++ and Golang.
-- My interests are: Redhat, Web Scraping, Data Science and Optimization.
+- I'm a Software Engineer with extensive expertise in Python, PHP, C++ and Golang.
+- My interests are: Back-end, Redhat, Web Scraping, Data Science and Optimization.
 
 Feel free to check out my repositories and get in touch if you'd like to collaborate on a project.
  
