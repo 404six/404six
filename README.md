@@ -1,7 +1,7 @@
 ### Hi there, I'm Lucas Morais 👋
 
 - I'm a Software Engineer with extensive expertise in Python, PHP, C++ and Golang.
-- My interests are: Back-end, Redhat, Web Scraping, Data Science and Optimization.
+- My interests are: Back-end, Redhat, Web Scraping, Data Science and GenAI.
 
 Feel free to check out my repositories and get in touch if you'd like to collaborate on a project.
  
